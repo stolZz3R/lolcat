@@ -13,8 +13,7 @@ function lolcat {
     Input file
     .PARAMETER Spread
     Rainbow spread
-    .PARAMETER Freq
-    Rainbow frequency
+    .PARAMETER Freqfunction lolcat {
     .PARAMETER Seed
     Rainbow seed, 0 = random
     .PARAMETER Animate
